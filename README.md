@@ -1,10 +1,10 @@
-# Hey, I'm Arthur - aka [CodeLingual][youtube] 👋 
+# Hey, I'm Arthur 👋 
 
 ## I'm a passionate Software Engineer at JFrog Israel 
 
 - 🌱 Constantly trying to pursue understanding of thyself and others
 - 👯 I’m looking forward to meeting new like minded people
-- 🥅 2024 Goals: Start working on personal projects and improve my public speaking skills
+- 🥅 2025 Goals: Start working on personal projects and improve my public speaking skills
 - ⚡ Fun fact: I love sports like calisthenics, yoga, weight lifting, surfing, swimming, running, and more
 
 ### Connect with me:
