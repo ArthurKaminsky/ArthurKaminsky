@@ -2,24 +2,18 @@
 
 ## I'm a passionate Software Engineer at JFrog Israel 
 
-- 🌱 Constantly trying to pursue understanding of thyself and others
-- 👯 I’m looking forward to meeting new like minded people
-- 🥅 2025 Goals: Start working on personal projects and improve my public speaking skills
-- ⚡ Fun fact: I love sports like calisthenics, yoga, weight lifting, surfing, swimming, running, and more
+- 🌱 Constantly trying to improve myself daily.
+- 👯 I’m looking forward to meeting new like minded people.
+- 🥅 2026 Goals: Continue working on myself and become better in all aspects of my life.
+- ⚡ Fun fact: I love sports like calisthenics, yoga, weight lifting, swimming, walking, and more
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/@CodeLingual#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/@CodeLingual#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/ArthurKaminsky#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/ArthurKaminsky#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/arthurkaminsky96#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/arthurkaminsky96#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/arthur_kaminsky314#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/arthur_kaminsky314#gh-dark-mode-only)
 
 ### Programming Languages
 
@@ -154,19 +148,5 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-Will start this soon...
-
----
-
-### 📕 Latest Blog Posts
-
-Will continue writing blogs on Medium...
-
----
-
 [twitter]: https://twitter.com/ArthurKaminsky
-[youtube]: https://www.youtube.com/@CodeLingual
-[instagram]: https://www.instagram.com/arthur_kaminsky314
 [linkedin]: https://www.linkedin.com/in/arthurkaminsky96
